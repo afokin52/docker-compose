@@ -1,1 +1,1 @@
-#Test githyb CI for docker-compose
+#Test github CI for docker-compose
